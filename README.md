@@ -41,7 +41,7 @@ Interact with the report [here](https://app.powerbi.com/links/mWfcFi7Fn0?ctid=de
 
 ### Airline Passenger Satisfactory Analysis
 
-![airline_passenger](airline_passenger.PNG)
+![airline](airline.PNG)
 
 ## Conclusions and Recommendation
 The analysis provides crucial insights into a more profounding understanding of passengers desires,Onboard services and staff interactions received the highest satisfaction scores among passengers,booking processes and baggage handling showed lower satisfaction scores, requiring immediate attention,Business travelers generally displayed higher satisfaction than personal travelers across most service aspects.
