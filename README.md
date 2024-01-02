@@ -2,7 +2,7 @@
 
 ![](plane.PNG)
 ## Introduction
-This is a powerBI project on passrnger satisfaction analysis from a hypothetical **Dano Airline Passenger Satisfaction**.The project is to provide valuable insights into passenger satisfaction, identify key factors that influence passengers satisfaction level, extract meaningful insights that will enable airlines to make informed decisions and improved their services.
+This is a powerBI project on passenger satisfaction analysis from a hypothetical **Dano Airline Passenger Satisfaction**.The project is to provide valuable insights into passenger satisfaction, identify key factors that influence passengers satisfaction level, extract meaningful insights that will enable airlines to make informed decisions and improved their services.
 
 **-Disclaimer_**:_All Datasets report is based on available data, do not represent any passenger and airline, but just a practice dataset to demonstrate the capabilities of PowerBI._
 
@@ -17,7 +17,7 @@ This is a powerBI project on passrnger satisfaction analysis from a hypothetical
 
 5 Identify the mean age of passengers who reported dissatisfaction.
 
-6 Analyze satisfaction levels for different travel purposes like business, leisure, etc.
+6 Analyze satisfaction levels for different travel purposes like business, personal etc.
 - *Gender:* Assess how satisfaction levels vary between male and female passengers.
 - *Class:* Explore satisfaction levels across different classes - economy, business, first class.
 
@@ -44,7 +44,7 @@ Interact with the report [here](https://app.powerbi.com/links/mWfcFi7Fn0?ctid=de
 ![airline_passenger](airline_passenger.PNG)
 
 ## Conclusions and Recommendation
-The analysis provides crucial insights into a more profounding understanding of passengers desires,Onboard services and staff interactions received the highest satisfaction scores among passengers,Booking processes and baggage handling showed lower satisfaction scores, requiring immediate attention,Business travelers generally displayed higher satisfaction than leisure travelers across most service aspects.
+The analysis provides crucial insights into a more profounding understanding of passengers desires,Onboard services and staff interactions received the highest satisfaction scores among passengers,booking processes and baggage handling showed lower satisfaction scores, requiring immediate attention,Business travelers generally displayed higher satisfaction than personal travelers across most service aspects.
 
 
 ### Recommendations
